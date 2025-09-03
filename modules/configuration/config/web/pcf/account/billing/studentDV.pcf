@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PCF
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="../../../../../../pcf.xsd">
+  <DetailViewPanel
+    id="studentDV">
+    <InputColumn>
+      <TextInput
+        id="name"
+        label="&quot;name&quot;"
+        value="&quot;praveen&quot;"/>
+    </InputColumn>
+  </DetailViewPanel>
+</PCF>
